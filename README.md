@@ -1,10 +1,13 @@
-## 👁️ ..ah.. you found me.
+## 👁️  ah… you found me…
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/onjin/onjin/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/onjin/onjin/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/onjin/onjin/output/github-contribution-grid-snake.svg" />
 </picture>
+
+</br>
+My repo is self-hosted in my private LAN. 💪  This repo is just temporary. 🗑️  Please ignore. 🙏  Thanks. 😊
 
 <!--
 **QuantumLibet/QuantumLibet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
